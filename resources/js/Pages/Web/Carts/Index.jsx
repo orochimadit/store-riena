@@ -21,7 +21,7 @@ export default function CartIndex() {
     return (
         <>
             <Head>
-                <title>Carts - Geek Store - Where Developer Shopping</title>
+                <title>Carts - Riena Store - Where Developer Shopping</title>
             </Head>
             <LayoutWeb>
 

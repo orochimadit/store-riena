@@ -41,7 +41,7 @@ export default function ProductShow() {
     return (
         <>
             <Head>
-                <title>{`${product.title} - Geek Store - Where Developer Shopping`}</title>
+                <title>{`${product.title} - Riena Store`}</title>
             </Head>
             <LayoutWeb>
 

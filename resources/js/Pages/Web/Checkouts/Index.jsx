@@ -111,7 +111,7 @@ export default function CheckoutIndex() {
     return (
         <>
             <Head>
-                <title>Checkouts - Geek Store - Where Developer Shopping</title>
+                <title>Checkouts - Riena Store </title>
             </Head>
             <LayoutWeb>
 

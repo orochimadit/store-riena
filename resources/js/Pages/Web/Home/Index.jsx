@@ -24,7 +24,7 @@ export default function HomeIndex() {
     return (
         <>
             <Head>
-                <title>Geek Store - Where Developer Shopping</title>
+                <title>Riena Store - Where We Shopping</title>
             </Head>
             <LayoutWeb>
 

@@ -27,7 +27,7 @@ export default function ColorIndex() {
     return(
         <>
             <Head>
-                <title>Colors - Geek Store</title>
+                <title>Colors - Riena Store</title>
             </Head>
             <LayoutAccount>
                 <div class="row mt-5">

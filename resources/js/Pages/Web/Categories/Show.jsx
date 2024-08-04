@@ -18,7 +18,7 @@ export default function CategoryShow() {
     return (
         <>
             <Head>
-                <title>{`${category.name} - Geek Store - Where Developer Shopping`}</title>
+                <title>{`${category.name} - Riena Store - Where Developer Shopping`}</title>
             </Head>
             <LayoutWeb>
 

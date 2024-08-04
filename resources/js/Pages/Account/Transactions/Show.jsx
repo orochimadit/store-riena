@@ -18,7 +18,7 @@ export default function TransactionShow() {
     return (
         <>
             <Head>
-                <title>Detail Transaction - Geek Store</title>
+                <title>Detail Transaction - Riena Store</title>
             </Head>
             <LayoutAccount>
                 <div className="row mt-4 mb-4">

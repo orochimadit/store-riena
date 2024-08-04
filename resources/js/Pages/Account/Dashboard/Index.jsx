@@ -73,7 +73,7 @@ export default function Dashboard() {
     return (
         <>
             <Head>
-                <title>Dashboard - Geek Store</title>
+                <title>Dashboard - Riena Store</title>
             </Head>
             <LayoutAccount>
             

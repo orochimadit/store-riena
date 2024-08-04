@@ -2,10 +2,10 @@
 import React from "react";
 
 //import header component
-import Header from '../components/Header';
+import Header from '../Components/Header';
 
 //import menu component
-import Menu from '../components/Menu';
+import Menu from '../Components/Menu';
 
 export default function LayoutWeb({children}) {
 

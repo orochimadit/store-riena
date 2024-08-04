@@ -27,7 +27,7 @@ export default function RoleIndex() {
     return(
         <>
             <Head>
-                <title>Roles - Geek Store</title>
+                <title>Roles - Riena Store</title>
             </Head>
             <LayoutAccount>
                 <div class="row mt-5">
